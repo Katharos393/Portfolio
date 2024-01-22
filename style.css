@@ -1,0 +1,33 @@
+*{
+    /*background-image: linear-gradient(30deg, #fc9c79, #e7717d, #a82e55);*/
+    background-color: #e7717d;
+}
+.container{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+.subheading{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+.baseline{
+    background-color:#e3e2df !important;
+}
+  
+td, th {
+    border: 3px solid #e3e2df;
+    text-align: left;
+    padding: 8px;
+  }
+  
